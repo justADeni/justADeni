@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+### My name is Deni, I am 19 y.o. Java developer
+
+### Working on [Mekanica](https://github.com/justADeni/Mekanica) 🔭 Spigot plugin
+
+### Here is my [Discord](https://discordapp.com/users/522531351006674974) 💬 Feel free to message me
+
+### Here is my [Spigot page](https://www.spigotmc.org/members/prostedeni.500000/) ⚡
 
 <!--
 **justADeni/justADeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
