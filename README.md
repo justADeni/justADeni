@@ -4,7 +4,7 @@
 
 ### Working on [Mekanica](https://github.com/justADeni/Mekanica) 🔭 Spigot plugin
 
-### Here is my [Discord](https://discordapp.com/users/522531351006674974) 💬 Feel free to message me
+### I am [justADeni#3659](https://discordapp.com/users/522531351006674974) on discord 💬 Feel free to message me
 
 ### Here is my [Spigot page](https://www.spigotmc.org/members/prostedeni.500000/) ⚡
 
