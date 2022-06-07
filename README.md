@@ -2,7 +2,7 @@
 
 ### My name is Deni, I am 19 y.o. Java developer
 
-### Working on 🔭 Spigot plugins
+### Working on Spigot plugins 🔭
 
 ### I am [justADeni#3659](https://discordapp.com/users/522531351006674974) on discord 💬 Feel free to message me
 
