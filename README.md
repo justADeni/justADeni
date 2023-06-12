@@ -6,7 +6,7 @@
 
 ### I am [justADeni#3659](https://discordapp.com/users/522531351006674974) on discord 💬 Feel free to message me
 
-### Here is my [Spigot page](https://www.spigotmc.org/members/prostedeni.500000/) ⚡
+### Here is my [Spigot page](https://www.spigotmc.org/members/justadeni.500000/) ⚡
 
 <!--
 **justADeni/justADeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
