@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### My name is Deni, I am 20 y.o. Java & Kotlin developer
+### My name is Deni, I am 21 y.o. Java & Kotlin developer
 
 ### Working on Spigot plugins 🔭
 
