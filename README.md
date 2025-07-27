@@ -1,9 +1,4 @@
-## 👋 Hey there, I'm Deni
-
-I'm a 22-year-old developer with a passion for building backend systems, tools, and occasionally messing with frontend tech too.  
-While **Java** is my main language, I'm also fluent in **Python**, **Kotlin**, and **JavaScript**.
-
-## ⚡ Technologies I use
+![Profile Gif](profile.gif)
 
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
